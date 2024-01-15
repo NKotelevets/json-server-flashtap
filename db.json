@@ -15,9 +15,9 @@
         "like": true
       },
       "video": "https://flashtap-mvp.s3.amazonaws.com/43.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_43.jpg",
       "name": "Shervin Afshari",
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 15,
@@ -47,9 +47,9 @@
         "fromStartList": true
       },
       "video": "https://flashtap-mvp.s3.amazonaws.com/47.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_47.jpg",
       "name": "Shervin Afshari",
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 285,
@@ -77,10 +77,10 @@
         "like": false
       },
       "video": "https://flashtap-mvp.s3.amazonaws.com/44.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_44.jpg",
       "name": "Shervin Afshari",
       "comments": 1,
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 46,
@@ -109,9 +109,9 @@
         "like": false
       },
       "video": "https://flashtap-mvp.s3.amazonaws.com/45.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_45.jpg",
       "name": "Shervin Afshari",
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 90,
@@ -140,9 +140,9 @@
       },
       "comments": 5,
       "video": "https://flashtap-mvp.s3.amazonaws.com/46.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_46.jpg",
       "name": "Shervin Afshari",
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 876,
@@ -171,9 +171,9 @@
         "like": false
       },
       "video": "https://flashtap-mvp.s3.amazonaws.com/48.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_48.jpg",
       "name": "Shervin Afshari",
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 767,
@@ -202,9 +202,9 @@
         "like": false
       },
       "video": "https://flashtap-mvp.s3.amazonaws.com/49.mp4",
-      "image": null,
+      "image": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_49.jpg",
       "name": "Shervin Afshari",
-      "avatar": null,
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
       "general_rating": {
         "global": {
           "rating": 15,
@@ -218,6 +218,671 @@
       }
     }
   ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "mocData": [
+    {
+      "id": "1kngwkejg",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/5.mp4",
+      "user": "Luke Harris",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/2.png",
+      "points": 1272,
+      "shares": 72,
+      "watched": false,
+      "isLike": false,
+      "likes": 1200,
+      "followers": 1545,
+      "nickName": "luke13",
+      "rate": "UP",
+      "general_rating": {
+        "global": {
+          "rating": 1,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 1,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": []
+    },
+
+    {
+      "id": "ok57weij4",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/1.mp4",
+      "user": "Olivia Cook",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/girls/4.png",
+      "points": 1249,
+      "shares": 249,
+      "followers": 8,
+      "watched": false,
+      "nickName": "olli",
+      "isLike": false,
+      "rate": "NONE",
+      "likes": 1000,
+      "general_rating": {
+        "global": {
+          "rating": 2,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Albertson High school",
+          "rating": 1,
+          "address": "Albertson, NY 11577",
+          "players": 1956
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/1.mp4",
+          "points": 1249,
+          "shares": 249,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "gf5qrt9",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/9.mp4",
+      "user": "Todd Phillips",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
+      "points": 1189,
+      "shares": 89,
+      "followers": 45,
+      "nickName": "phill005",
+      "watched": false,
+      "isLike": false,
+      "likes": 1000,
+      "rate": "UP",
+      "general_rating": {
+        "global": {
+          "rating": 3,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 2,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/9.mp4",
+          "points": 1189,
+          "shares": 89,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/16.mp4",
+          "points": 381,
+          "shares": 14,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/17.mp4",
+          "points": 45,
+          "shares": 194,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/19.mp4",
+          "points": 35,
+          "shares": 154,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "3dfvmnsdjf",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/13.mp4",
+      "user": "Max Bunny",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/girls/4.png",
+      "points": 1117,
+      "shares": 94,
+      "followers": 475,
+      "nickName": "thebunny",
+      "watched": false,
+      "isLike": false,
+      "likes": 785,
+      "rate": "DOWN",
+      "general_rating": {
+        "global": {
+          "rating": 4,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Albertson High school",
+          "rating": 2,
+          "address": "Albertson, NY 11577",
+          "players": 1956
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/19.mp4",
+          "points": 234,
+          "shares": 84,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/13.mp4",
+          "points": 1117,
+          "shares": 94,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "2vncvbn4",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/10.mp4",
+      "user": "Jim Baker",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/6.png",
+      "points": 1025,
+      "shares": 25,
+      "watched": false,
+      "nickName": "backerjim",
+      "isLike": false,
+      "likes": 1000,
+      "followers": 56764,
+      "rate": "NONE",
+      "general_rating": {
+        "global": {
+          "rating": 5,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Roslyn",
+          "rating": 1,
+          "address": "Roslyn, NY 11787-3308",
+          "players": 73648
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/17.mp4",
+          "points": 865,
+          "shares": 14,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/10.mp4",
+          "points": 1125,
+          "shares": 25,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "ok57ijqwqw4",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/7.mp4",
+      "user": "Dan Collins",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
+      "points": 1004,
+      "shares": 304,
+      "rate": "DOWN",
+      "followers": 3465,
+      "nickName": "colli956",
+      "watched": false,
+      "isLike": false,
+      "likes": 700,
+      "general_rating": {
+        "global": {
+          "rating": 6,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Albertson High school",
+          "rating": 3,
+          "address": "Albertson, NY 11577",
+          "players": 1956
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/8.mp4",
+          "points": 674,
+          "shares": 264,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/7.mp4",
+          "points": 1004,
+          "shares": 304,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "2ekrgjkrt",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/17.mp4",
+      "user": "Mat Evans",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/5.png",
+      "points": 1002,
+      "shares": 122,
+      "nickName": "evmat45",
+      "watched": false,
+      "isLike": false,
+      "followers": 10985,
+      "likes": 900,
+      "rate": "UP",
+      "general_rating": {
+        "global": {
+          "rating": 7,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 3,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/18.mp4",
+          "points": 23,
+          "shares": 12,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/17.mp4",
+          "points": 1002,
+          "shares": 122,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/20.mp4",
+          "points": 653,
+          "shares": 235,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "3zxcvxcvr4",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/11.mp4",
+      "user": "Medison Young",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/girls/2.png",
+      "points": 999,
+      "shares": 99,
+      "watched": false,
+      "isLike": false,
+      "followers": 42,
+      "nickName": "medstrong",
+      "likes": 900,
+      "rate": "UP",
+      "general_rating": {
+        "global": {
+          "rating": 8,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Roslyn",
+          "rating": 2,
+          "address": "Roslyn, NY 11787-3308",
+          "players": 8765
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/11.mp4",
+          "points": 999,
+          "shares": 34,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/12.mp4",
+          "points": 31,
+          "shares": 1,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "ok5s7ij412",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/39.mp4",
+      "user": "Adam Fix",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/girls/4.png",
+      "points": 991,
+      "shares": 91,
+      "followers": 12,
+      "nickName": "trio13",
+      "watched": false,
+      "isLike": true,
+      "likes": 900,
+      "rate": "NONE",
+      "general_rating": {
+        "global": {
+          "rating": 9,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Albertson High school",
+          "rating": 4,
+          "address": "Albertson, NY 11577",
+          "players": 1956
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/34.mp4",
+          "points": 674,
+          "shares": 264,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/39.mp4",
+          "points": 991,
+          "shares": 91,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "ok57ixcvj4",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/20.mp4",
+      "user": "Izzy Cook",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/3.png",
+      "points": 988,
+      "shares": 188,
+      "followers": 500,
+      "nickName": "izyli42",
+      "watched": false,
+      "isLike": false,
+      "rate": "UP",
+      "likes": 800,
+      "general_rating": {
+        "global": {
+          "rating": 10,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Albertson High school",
+          "rating": 4,
+          "address": "Albertson, NY 11577",
+          "players": 1956
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/10.mp4",
+          "points": 823,
+          "shares": 165,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/20.mp4",
+          "points": 988,
+          "shares": 188,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "2ekr344gjkrt",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/7.mp4",
+      "user": "Martin Ko",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/5.png",
+      "points": 963,
+      "shares": 63,
+      "nickName": "founderko3",
+      "watched": false,
+      "rate": "DOWN",
+      "followers": 1275,
+      "isLike": false,
+      "likes": 900,
+      "general_rating": {
+        "global": {
+          "rating": 11,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 4,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/14.mp4",
+          "points": 23,
+          "shares": 12,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/7.mp4",
+          "points": 963,
+          "shares": 63,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "2ekrgjkr09t",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/15.mp4",
+      "user": "Florence Pue",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/girls/2.png",
+      "points": 957,
+      "shares": 57,
+      "followers": 1265585,
+      "nickName": "florencepue40",
+      "watched": false,
+      "isLike": false,
+      "rate": "NONE",
+      "likes": 900,
+      "general_rating": {
+        "global": {
+          "rating": 12,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 5,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/11.mp4",
+          "points": 23,
+          "shares": 12,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/15.mp4",
+          "points": 957,
+          "shares": 57,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "2ekr1nsr09t",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/1.mp4",
+      "user": "Danny Fantom",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/2.png",
+      "points": 951,
+      "shares": 51,
+      "nickName": "danny567",
+      "watched": false,
+      "isLike": true,
+      "followers": 10000000,
+      "rate": "UP",
+      "likes": 900,
+      "general_rating": {
+        "global": {
+          "rating": 13,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 6,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/4.mp4",
+          "points": 23,
+          "shares": 12,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/1.mp4",
+          "points": 951,
+          "shares": 51,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "m2b5r09t",
+      "video": "https://flashtap-mvp.s3.amazonaws.com/3.mp4",
+      "user": "David Lux",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/1.png",
+      "points": 905,
+      "shares": 105,
+      "followers": 176574,
+      "nickName": "lux745",
+      "watched": false,
+      "isLike": true,
+      "rate": "UP",
+      "likes": 800,
+      "general_rating": {
+        "global": {
+          "rating": 14,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Jefferson High school",
+          "rating": 7,
+          "address": "Jefferson, LA 22024",
+          "players": 7546
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/2.mp4",
+          "points": 23,
+          "shares": 12,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/3.mp4",
+          "points": 905,
+          "shares": 105,
+          "isLike": false,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    },
+
+    {
+      "id": "1ertert3",
+      "points": 899,
+      "likes": 853,
+      "shares": 42,
+      "watched": false,
+      "video": "https://flashtap-mvp.s3.amazonaws.com/43.mp4",
+      "thumbnail": "https://flashtag-mocdata.s3.amazonaws.com/thumbnail_43.jpg",
+      "user": "Shervin Afshari",
+      "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/boys/7.png",
+      "isLike": false,
+      "nickName": "sherv",
+      "followers": 8754,
+      "rate": "NONE",
+      "general_rating": {
+        "global": {
+          "rating": 15,
+          "info": "All players"
+        },
+        "school": {
+          "name": "Roslyn",
+          "rating": 3,
+          "address": "Roslyn, NY 11787-3308",
+          "players": 73648
+        }
+      },
+      "stories": [
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/20.mp4",
+          "points": 342,
+          "shares": 12,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/18.mp4",
+          "points": 43,
+          "shares": 687,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        },
+
+        {
+          "video": "https://flashtap-mvp.s3.amazonaws.com/43.mp4",
+          "points": 899,
+          "shares": 42,
+          "isLike": true,
+          "date": "2023-07-17T23:55:09.689"
+        }
+      ]
+    }
+  ]
 }
