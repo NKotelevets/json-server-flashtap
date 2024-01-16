@@ -220,7 +220,7 @@
   ],
   "schoolsReelsData": [
     {
-      "id": "34b5j",
+      "id": "34b5jj",
       "title": "🌍 Global",
       "data": [
         {
@@ -892,7 +892,7 @@
       "thumbnail": ""
     },
     {
-      "id": "34nmb35",
+      "id": "34nmb352",
       "title": "🎓 My School",
       "data": [
         {
@@ -1231,7 +1231,7 @@
       "title": "Albertson High School",
       "data": [
         {
-          "id": "mvfvdv",
+          "id": "mvfvdv2",
           "video": "https://flashtap-mvp.s3.amazonaws.com/1.mp4",
           "user": "Olivia Cook",
           "avatar": "https://flashtag-mocdata.s3.amazonaws.com/avatars/girls/1.png",
@@ -1389,7 +1389,7 @@
       "thumbnail": ""
     },
     {
-      "id": "45jnbk",
+      "id": "45jnb3k",
       "title": "Jefferson High School",
       "data": [
         {
@@ -1648,7 +1648,7 @@
       "thumbnail": ""
     },
     {
-      "id": "56iuj",
+      "id": "56i5uj",
       "title": "The Bronx High School",
       "data": [
         {
@@ -1686,7 +1686,7 @@
       "thumbnail": ""
     },
     {
-      "id": "23okl",
+      "id": "23o3kl",
       "title": "Regis High School",
       "data": [
         {
@@ -1724,7 +1724,7 @@
       "thumbnail": ""
     },
     {
-      "id": "4fzc31",
+      "id": "4fzc351",
       "title": "NY School",
       "data": [
         {
@@ -1762,7 +1762,7 @@
       "thumbnail": ""
     },
     {
-      "id": "nv70sz",
+      "id": "nv570sz",
       "title": "LA School",
       "data": [
         {
@@ -1800,7 +1800,7 @@
       "thumbnail": ""
     },
     {
-      "id": "34b5j",
+      "id": "34b5sj",
       "title": "🌍 Global",
       "data": [
         {
@@ -2472,7 +2472,7 @@
       "thumbnail": ""
     },
     {
-      "id": "34nmb35",
+      "id": "34nmb352",
       "title": "🎓 My School",
       "data": [
         {
@@ -3382,7 +3382,7 @@
   ],
   "mocDataStories": [
     {
-      "id": 15354,
+      "id": 153541,
       "name": "Olivia Cook",
       "isNew": true,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/1.png",
@@ -3409,7 +3409,7 @@
       ]
     },
     {
-      "id": 234567,
+      "id": 2345672,
       "name": "Luke Harris",
       "isNew": true,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/2.png",
@@ -3508,7 +3508,7 @@
       ]
     },
     {
-      "id": 4452347,
+      "id": 44523473,
       "name": "Jim Backer",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/5.png",
@@ -3535,7 +3535,7 @@
       ]
     },
     {
-      "id": 512342,
+      "id": 5123424,
       "name": "Medison Young",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/4.png",
@@ -3581,7 +3581,7 @@
       ]
     },
     {
-      "id": 67878,
+      "id": 678785,
       "name": "Odella Appletone",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/6.png",
@@ -3608,7 +3608,7 @@
       ]
     },
     {
-      "id": 9465167,
+      "id": 94651676,
       "name": "Sophia Wilson",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/9.png",
@@ -3635,7 +3635,7 @@
       ]
     },
     {
-      "id": 389078,
+      "id": 3890787,
       "name": "Todd Phillips",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/3.png",
@@ -3716,7 +3716,7 @@
       ]
     },
     {
-      "id": 7345645,
+      "id": 73456458,
       "name": "Uess Phillips",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/7.png",
@@ -3743,7 +3743,7 @@
       ]
     },
     {
-      "id": 867657,
+      "id": 8676579,
       "name": "Werry Dieska",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/8.png",
@@ -3770,7 +3770,7 @@
       ]
     },
     {
-      "id": 15354,
+      "id": 153549,
       "name": "Olivia Cook",
       "isNew": true,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/1.png",
@@ -3797,7 +3797,7 @@
       ]
     },
     {
-      "id": 234567,
+      "id": 23456728,
       "name": "Luke Harris",
       "isNew": true,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/2.png",
@@ -3896,7 +3896,7 @@
       ]
     },
     {
-      "id": 4452347,
+      "id": 445234737,
       "name": "Jim Backer",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/5.png",
@@ -3923,7 +3923,7 @@
       ]
     },
     {
-      "id": 512342,
+      "id": 51234246,
       "name": "Medison Young",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/4.png",
@@ -3969,7 +3969,7 @@
       ]
     },
     {
-      "id": 67878,
+      "id": 6787856,
       "name": "Odella Appletone",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/6.png",
@@ -3996,7 +3996,7 @@
       ]
     },
     {
-      "id": 9465167,
+      "id": 946516765,
       "name": "Sophia Wilson",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/9.png",
@@ -4023,7 +4023,7 @@
       ]
     },
     {
-      "id": 389078,
+      "id": 38907874,
       "name": "Todd Phillips",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/3.png",
@@ -4104,7 +4104,7 @@
       ]
     },
     {
-      "id": 7345645,
+      "id": 734564583,
       "name": "Uess Phillips",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/7.png",
@@ -4131,7 +4131,7 @@
       ]
     },
     {
-      "id": 867657,
+      "id": 86765792,
       "name": "Werry Dieska",
       "isNew": false,
       "avatar": "https://flashtag-mocdata.s3.amazonaws.com/users/8.png",
